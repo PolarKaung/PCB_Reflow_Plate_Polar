@@ -1,0 +1,19 @@
+.AOD442 :1 ;MOSFET N Trench 60V 7A 2.7V @ 250uA 20 m @ 20A,10V TO-252-2(DPAK) RoHS
+AOD442
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN AOD442
+~!Manufacturer_Name (Alpha & Omega Semiconductors)
+~!Manufacturer_Part_Number (AOD442)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (AOD442)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aod442/alpha-and-omega-semiconductor?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.aosmd.com/res/packaging_information/TO252.pdf)
+~!Height (2.4mm)
+AOD442
+1.1!U 2.1!U 3.1!U 

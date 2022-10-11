@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMT85LP'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMT85LP" (!) = "", "LMT85LP", "Other", "595-LMT85LP", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMT85LP?qs=U0ECReq1GB%2FnA9zQwQMysg%3D%3D", "LMT85LP", "https://www.arrow.com/en/products/lmt85lp/texas-instruments?region=nac", "", "", "Board Mount Temperature Sensors Analog Temp Sensor", "https://www.ti.com/lit/ds/symlink/lmt85.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1635242341074&ref_url=https%253A%252F%252Fwww.mouser.de%252F", "5.34 mm"
+END_PART
+
+END.

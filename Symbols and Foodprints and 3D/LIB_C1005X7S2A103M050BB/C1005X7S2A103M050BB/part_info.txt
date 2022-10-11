@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=C1005X7S2A103M050BB
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2018-05-24 23:18:30
+Downloaded=2022-09-01 13:04:17
+3D=Y

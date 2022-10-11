@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMT85LP
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2021-10-28 10:26:53
+Downloaded=2022-09-01 05:10:31
+3D=Y

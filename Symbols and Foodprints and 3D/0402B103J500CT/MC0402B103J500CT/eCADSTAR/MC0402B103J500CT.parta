@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_757941"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-15-09:23:18)
+    (utime 2022-02-16-06:26:29)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MC0402B103J500CT")
+)
+
+
+(pinAssign "ECS_757941"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-15-09:23:18)
+    (utime 2022-02-16-06:26:29)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_757941")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MC0402B103J500CT")
+)
+
+
+(part "MC0402B103J500CT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-02-15-09:23:18)
+    (utime 2022-02-16-06:26:29)
+    (packageRef "MC0402B103J500CT")
+    (pinAssignRef "ECS_757941")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "MULTICOMP PRO - MC0402B103J500CT - SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], +/- 5%, X7R, MC Series")
+    (property "Manufacturer_Name" "MULTICOMP")
+    (property "Manufacturer_Part_Number" "MC0402B103J500CT")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/MC0402B103J500CT.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

@@ -1,0 +1,129 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LMT85LP"
+   (description "Board Mount Temperature Sensors Analog Temp Sensor")
+   (family "ANA")
+   (package "LMT85LP")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/lmt85.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1635242341074&ref_url=https%253A%252F%252Fwww.mouser.de%252F")
+   (attribute "Geometry.Height" "5.34mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "LMT85LP")
+   (attribute "Mouser Part Number" "595-LMT85LP")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMT85LP?qs=U0ECReq1GB%2FnA9zQwQMysg%3D%3D")
+   (attribute "Arrow Part Number" "LMT85LP")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/lmt85lp/texas-instruments?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "LMT85LP")
+    (pin "VDD" 1 PS)
+    (pin "OUT" 2 PS)
+    (pin "GND" 3 PS)
+   )
+  )
+  (symbol "LMT85LP"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LMT85LP"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.143 3.413)
+      (pt 4.683 3.413)
+      (pt 4.683 -2.33)
+      (pt -2.143 -2.33)
+      (pt -2.143 3.413))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.143 0)
+      (arc (pt -1.143 0.000) (pt -1.143 -2.413) (pt 3.683 2.413) (start -180.0) (sweep 180.0))
+      (pt 3.683 0)
+      (pt 3.683 -1.33)
+      (pt -1.143 -1.33)
+      (pt -1.143 -1.33)
+      (pt -1.143 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.143 0)
+      (arc (pt -1.143 0.000) (pt -1.143 -2.413) (pt 3.683 2.413) (start -180.0) (sweep 180.0))
+      (pt 3.683 0)
+      (pt 3.683 -1.33)
+      (pt 3.683 -1.33)
+      (pt -1.143 -1.33)
+      (pt -1.143 -1.33)
+      (pt -1.143 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.8 0)
+      (arc (pt -1.800 0.000) (pt -1.800 -0.050) (pt -1.700 0.050) (start 180.0) (sweep -180.0))
+      (pt -1.7 0)
+      (arc (pt -1.700 0.000) (pt -1.800 -0.050) (pt -1.700 0.050) (start 180.0) (sweep .0))
+      (pt -1.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 1.270 0.000) (padstack 0))
+   (leg 3 (pt 2.540 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.85)
+    (plated true)
+    (pad (layer TCOP) (ovalf 1.070 1.500 0 90.000))
+    (pad (layer INNER) (round 1.070))
+    (pad (layer BCOP) (ovalf 1.070 1.500 0 90.000))
+   )
+   (padstack 1
+    (hole 0.85)
+    (plated true)
+    (pad (layer TCOP) (rectf 1.070 1.500 0 0 90.000))
+    (pad (layer INNER) (round 1.070))
+    (pad (layer BCOP) (rectf 1.070 1.500 0 0 90.000))
+   )
+   (model "LMT85LP.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

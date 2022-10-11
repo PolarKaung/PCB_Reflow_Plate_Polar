@@ -1,0 +1,9 @@
+Manufacturer=Samsung
+PartNumber=CL21A226MAYNNNE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2022-01-11 10:35:42
+Downloaded=2022-09-01 08:44:31
+3D=Y

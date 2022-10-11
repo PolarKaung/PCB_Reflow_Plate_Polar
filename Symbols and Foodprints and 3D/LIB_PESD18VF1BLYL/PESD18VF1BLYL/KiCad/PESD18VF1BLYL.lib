@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PESD18VF1BLYL
+#/11628055/937371/2.49/2/2/Diode ESD (Bi-directional)
+DEF PESD18VF1BLYL D 0 30 Y Y 1 F N
+F0 "D" 450 350 50 H V C CNN
+F1 "PESD18VF1BLYL" 450 250 50 H V C CNN
+F2 "PESD5V0S1BL315" 450 150 50 H I C CNN
+F3 "https://assets.nexperia.com/documents/data-sheet/PESD18VF1BL.pdf" 450 50 50 H I C CNN
+F4 "PESD18VF1BL - Ultra low capacitance bidirectional ESD protection diode" 450 -50 50 H I C CNN "Description"
+F5 "0" 450 -150 50 H I C CNN "Height"
+F6 "Nexperia" 450 -250 50 H I C CNN "Manufacturer_Name"
+F7 "PESD18VF1BLYL" 450 -350 50 H I C CNN "Manufacturer_Part_Number"
+F8 "771-PESD18VF1BLYL" 450 -450 50 H I C CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD18VF1BLYL?qs=gNSudQoqUYD5PVaOytQ6tQ%3D%3D" 450 -550 50 H I C CNN "Mouser Price/Stock"
+F10 "" 450 -650 50 H I C CNN "Arrow Part Number"
+F11 "" 450 -750 50 H I C CNN "Arrow Price/Stock"
+F12 "" 450 -850 50 H I C CNN "Mouser Testing Part Number"
+F13 "" 450 -950 50 H I C CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 800 0 100 L 50 50 0 0 P
+P 4 0 1 6 200 0 400 100 400 -100 200 0 N
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 500 0 400 0 N
+P 2 0 1 6 200 -100 260 -100 N
+P 4 0 1 6 700 0 500 -100 500 100 700 0 N
+P 2 0 1 6 700 100 700 -100 N
+P 2 0 1 6 640 100 700 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

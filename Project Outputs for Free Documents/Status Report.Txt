@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:05:03 PM On 9/1/2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PCB_Reflow_Plate.PrjPcb]
+   Generated File[Bill of Materials-PCB_Reflow_Plate.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:05:23 PM On 9/1/2022

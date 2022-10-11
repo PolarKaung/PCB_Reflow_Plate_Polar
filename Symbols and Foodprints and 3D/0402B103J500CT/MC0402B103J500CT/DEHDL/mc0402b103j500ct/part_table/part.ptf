@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC0402B103J500CT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MULTICOMP", "MC0402B103J500CT" (!) = "", "CAPC1005X55N", "Capacitor Chip Non-polarised", "", "", "", "", "", "", "MULTICOMP PRO - MC0402B103J500CT - SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], +/- 5%, X7R, MC Series", "https://componentsearchengine.com/Datasheets/2/MC0402B103J500CT.pdf", "0.55 mm"
+END_PART
+
+END.

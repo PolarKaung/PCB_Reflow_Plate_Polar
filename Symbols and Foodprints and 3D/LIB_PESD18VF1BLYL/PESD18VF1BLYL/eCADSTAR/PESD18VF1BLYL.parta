@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_11628055"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-09-09:22:20)
+    (utime 2022-06-22-21:39:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PESD18VF1BLYL")
+)
+
+
+(pinAssign "ECS_11628055"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-09-09:22:20)
+    (utime 2022-06-22-21:39:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11628055")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PESD18VF1BLYL")
+)
+
+
+(part "PESD18VF1BLYL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-09-09:22:20)
+    (utime 2022-06-22-21:39:32)
+    (packageRef "PESD18VF1BLYL")
+    (pinAssignRef "ECS_11628055")
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "D")
+    (property "description" "PESD18VF1BL - Ultra low capacitance bidirectional ESD protection diode")
+    (property "Manufacturer_Name" "Nexperia")
+    (property "Manufacturer_Part_Number" "PESD18VF1BLYL")
+    (property "Mouser_Part_Number" "771-PESD18VF1BLYL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD18VF1BLYL?qs=gNSudQoqUYD5PVaOytQ6tQ%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://assets.nexperia.com/documents/data-sheet/PESD18VF1BL.pdf")
+    (property "compAreaTopHeight" 0)
+)
+
+

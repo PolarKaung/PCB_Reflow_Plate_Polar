@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PCB_Reflow_Plate.PcbDoc]
+   Generated File[PCB_Reflow_Plate.GTO]
+   Generated File[PCB_Reflow_Plate.GTP]
+   Generated File[PCB_Reflow_Plate.GTS]
+   Generated File[PCB_Reflow_Plate.GTL]
+   Generated File[PCB_Reflow_Plate.GBL]
+   Generated File[PCB_Reflow_Plate.GBS]
+   Generated File[PCB_Reflow_Plate.GBP]
+   Generated File[PCB_Reflow_Plate.GBO]
+   Generated File[PCB_Reflow_Plate.GM4]
+   Generated File[PCB_Reflow_Plate.GKO]
+   Generated File[PCB_Reflow_Plate.RUL]
+   Generated File[PCB_Reflow_Plate.EXTREP]
+   Generated File[PCB_Reflow_Plate.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 9:36:30 AM On 10/10/2022

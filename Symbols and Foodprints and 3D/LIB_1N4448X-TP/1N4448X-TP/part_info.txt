@@ -1,0 +1,9 @@
+Manufacturer=Micro Commercial Components (MCC)
+PartNumber=1N4448X-TP
+PartCategory=Diode
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2021-03-11 10:14:16
+Downloaded=2022-09-01 16:43:53
+3D=Y

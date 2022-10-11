@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_4659051"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-11:31:06)
+    (utime 2021-03-24-23:36:53)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PTS636_SP50_LFS")
+)
+
+
+(pinAssign "ECS_4659051"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-11:31:06)
+    (utime 2021-03-24-23:36:53)
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_4659051")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PTS636_SP50_LFS")
+)
+
+
+(part "PTS636_SP50_LFS"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-11:31:06)
+    (utime 2021-03-24-23:36:53)
+    (packageRef "PTS636_SP50_LFS")
+    (pinAssignRef "ECS_4659051")
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Tactile Switches Tact 50mA 12VDC, 6.0x3.5, 5.0mm H, 320gf, THT leads, Black Actuator")
+    (property "Manufacturer_Name" "C & K COMPONENTS")
+    (property "Manufacturer_Part_Number" "PTS636 SP50 LFS")
+    (property "Mouser_Part_Number" "611-PTS636SP50LFS")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS636-SP50-LFS?qs=vLWxofP3U2z4MEGIueNwUA%3D%3D")
+    (property "Arrow_Part_Number" "PTS636 SP50 LFS")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/pts636-sp50-lfs/ck")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.ckswitches.com/media/2779/pts636.pdf")
+    (property "compAreaTopHeight" 4.5)
+)
+
+

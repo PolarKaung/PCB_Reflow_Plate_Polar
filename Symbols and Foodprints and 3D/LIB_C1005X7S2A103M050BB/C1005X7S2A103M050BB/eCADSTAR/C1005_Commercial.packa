@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "C1005X7S2A103M050BB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-17-11:21:27)
+    (mountForm default
+        (footprintRef "C1005_Commercial")
+        (spec "System")
+    )
+)

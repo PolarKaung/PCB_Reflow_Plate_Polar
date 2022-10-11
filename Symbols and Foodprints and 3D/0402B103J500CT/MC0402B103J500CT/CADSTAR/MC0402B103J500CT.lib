@@ -1,0 +1,20 @@
+.MC0402B103J500CT :1 ;MULTICOMP PRO - MC0402B103J500CT - SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], +/- 5%, X7R, MC Series
+CAPC1005X55N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MC0402B103J500CT
+~!Manufacturer_Name (MULTICOMP)
+~!Manufacturer_Part_Number (MC0402B103J500CT)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/MC0402B103J500CT.pdf)
+~!Height (0.55mm)
+~!3D_Model (MC0402B103J500CT)
+MC0402B103J500CT
+1.1!U 2.1!U 

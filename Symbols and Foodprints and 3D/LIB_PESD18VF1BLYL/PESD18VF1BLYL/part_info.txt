@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PESD18VF1BLYL
+PartCategory=Diode ESD (Bi-directional)
+PackageCategory=Other
+PinCount=2
+Version=8.4
+Released=2020-12-09 09:22:20
+Downloaded=2022-09-01 16:28:35
+3D=Y

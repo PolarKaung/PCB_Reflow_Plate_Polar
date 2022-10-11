@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_170382"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-29-11:52:07)
+    (utime 2020-07-10-06:25:19)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "UWT1V101MCL1GS")
+)
+
+
+(pinAssign "ECS_170382"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-29-11:52:07)
+    (utime 2020-07-10-06:25:19)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_170382")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "UWT1V101MCL1GS")
+)
+
+
+(part "UWT1V101MCL1GS"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-29-11:52:07)
+    (utime 2020-07-10-06:25:19)
+    (packageRef "UWT1V101MCL1GS")
+    (pinAssignRef "ECS_170382")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Al Cap WT series SMT 100uF 35V Nichicon Aluminium Electrolytic Capacitor 100uF 35 V 6.3mm Surface Mount 5101-4 series WT lifetime 1000h")
+    (property "Manufacturer_Name" "Nichicon")
+    (property "Manufacturer_Part_Number" "UWT1V101MCL1GS")
+    (property "Mouser_Part_Number" "647-UWT1V101MCL1S")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nichicon/UWT1V101MCL1GS?qs=nG%2Fv56AVa5sB1atDEGzDJQ%3D%3D")
+    (property "Arrow_Part_Number" "UWT1V101MCL1GS")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/uwt1v101mcl1gs/nichicon")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.mouser.com/ds/2/293/e-uwt-880115.pdf")
+    (property "compAreaTopHeight" 8)
+)
+
+

@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_408654"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-24-06:30:12)
+    (utime 2022-08-25-06:25:22)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GRM21AR72E102KW01D")
+)
+
+
+(pinAssign "ECS_408654"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-24-06:30:12)
+    (utime 2022-08-25-06:25:22)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_408654")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GRM21AR72E102KW01D")
+)
+
+
+(part "GRM21AR72E102KW01D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-24-06:30:12)
+    (utime 2022-08-25-06:25:22)
+    (packageRef "GRM21AR72E102KW01D")
+    (pinAssignRef "ECS_408654")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Murata 0805 (2012M) 1nF MLCC 250V dc +/-10% SMD GRM21AR72E102KW01D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GRM21AR72E102KW01D")
+    (property "Mouser_Part_Number" "81-GRM21AR72E102KW01")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM21AR72E102KW01")
+    (property "Arrow_Part_Number" "GRM21AR72E102KW01D")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/grm21ar72e102kw01d/murata-manufacturing")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.murata.com/en-us/products/productdetail?partno=GRM21AR72E102KW01%23?hkey=EF798316E3902B6ED9A73243A3159BB0")
+    (property "compAreaTopHeight" 1)
+)
+
+

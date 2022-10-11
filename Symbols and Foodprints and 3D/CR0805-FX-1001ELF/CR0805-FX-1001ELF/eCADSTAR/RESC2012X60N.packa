@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CR0805-FX-1001ELF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-03-04:17:22)
+    (mountForm default
+        (footprintRef "RESC2012X60N")
+        (spec "System")
+    )
+)

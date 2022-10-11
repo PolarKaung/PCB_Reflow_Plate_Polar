@@ -1,0 +1,9 @@
+Manufacturer=Alpha & Omega Semiconductors
+PartNumber=AOD442
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2019-11-18 10:05:15
+Downloaded=2022-09-01 15:48:40
+3D=N

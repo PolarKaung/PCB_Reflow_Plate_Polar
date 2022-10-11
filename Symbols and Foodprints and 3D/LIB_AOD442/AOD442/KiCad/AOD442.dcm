@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOD442
+D MOSFET N Trench 60V 7A 2.7V @ 250uA 20 m @ 20A,10V TO-252-2(DPAK) RoHS
+K
+F http://www.aosmd.com/res/packaging_information/TO252.pdf
+$ENDCMP
+#
+#End Doc Library

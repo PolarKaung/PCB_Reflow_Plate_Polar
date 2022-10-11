@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CL21A226MAYNNNE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-01-11-10:35:42)
+    (mountForm default
+        (footprintRef "CAPC2012X145N")
+        (spec "System")
+    )
+)

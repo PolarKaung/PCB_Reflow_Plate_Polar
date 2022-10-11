@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1N4448X-TP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-03-11-10:14:16)
+    (mountForm default
+        (footprintRef "1N4448XTP")
+        (spec "System")
+    )
+)

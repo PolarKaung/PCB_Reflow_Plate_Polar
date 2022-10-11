@@ -1,0 +1,20 @@
+.1N4448X-TP :1 ;Diodes - General Purpose, Power, Switching 250mA 75V 500mA 250mA 150mW 75Vbr
+"1N4448XTP"
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4448X-TP
+~!Manufacturer_Name (Micro Commercial Components (MCC))
+~!Manufacturer_Part_Number (1N4448X-TP)
+~!Mouser Part Number (833-1N4448X-TP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/1N4448X-TP?qs=0RDYWt4CO4fFI8HfN%2F4aEA%3D%3D)
+~!Arrow Part Number (1N4448X-TP)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1n4448x-tp/micro-commercial-components?region=europe)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.mccsemi.com/pdf/Products/1N4448X(SOD-523).PDF)
+~!Height (0.65mm)
+~!3D_Model (1N4448X-TP)
+"1N4448X-TP"
+1.1!U 2.1!U 

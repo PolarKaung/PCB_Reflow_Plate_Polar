@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CR0805-FX-1001ELF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=4.1
+Released=2016-05-24 14:22:12
+Downloaded=2022-09-01 09:22:23
+3D=Y

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "C1005_Commercial"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "C1005_Commercial")
+        (spec "default")
+    )
+)

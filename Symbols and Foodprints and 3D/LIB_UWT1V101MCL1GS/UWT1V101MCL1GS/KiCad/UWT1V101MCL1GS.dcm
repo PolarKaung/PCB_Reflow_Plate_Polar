@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UWT1V101MCL1GS
+D Al Cap WT series SMT 100uF 35V Nichicon Aluminium Electrolytic Capacitor 100uF 35 V 6.3mm Surface Mount 5101-4 series WT lifetime 1000h
+K
+F http://www.mouser.com/ds/2/293/e-uwt-880115.pdf
+$ENDCMP
+#
+#End Doc Library

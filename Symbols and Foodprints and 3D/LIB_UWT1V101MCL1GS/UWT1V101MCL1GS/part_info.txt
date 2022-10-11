@@ -1,0 +1,9 @@
+Manufacturer=Nichicon
+PartNumber=UWT1V101MCL1GS
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=2.1
+Released=2017-08-29 11:52:07
+Downloaded=2022-09-01 08:32:02
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM21AR72E102KW01D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM21AR72E102KW01D" (!) = "", "CAPC2012X100N", "Capacitor Chip Non-polarised", "81-GRM21AR72E102KW01", "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM21AR72E102KW01", "GRM21AR72E102KW01D", "https://www.arrow.com/en/products/grm21ar72e102kw01d/murata-manufacturing", "", "", "Murata 0805 (2012M) 1nF MLCC 250V dc +/-10% SMD GRM21AR72E102KW01D", "https://www.murata.com/en-us/products/productdetail?partno=GRM21AR72E102KW01%23?hkey=EF798316E3902B6ED9A73243A3159BB0", "1 mm"
+END_PART
+
+END.

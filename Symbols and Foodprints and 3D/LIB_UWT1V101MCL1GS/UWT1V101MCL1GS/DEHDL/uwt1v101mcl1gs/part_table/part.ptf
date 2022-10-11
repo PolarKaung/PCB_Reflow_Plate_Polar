@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UWT1V101MCL1GS'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nichicon", "UWT1V101MCL1GS" (!) = "", "CAPAE660X800N", "Capacitor Al Electrolytic", "647-UWT1V101MCL1S", "https://www.mouser.co.uk/ProductDetail/Nichicon/UWT1V101MCL1GS?qs=nG%2Fv56AVa5sB1atDEGzDJQ%3D%3D", "UWT1V101MCL1GS", "https://www.arrow.com/en/products/uwt1v101mcl1gs/nichicon", "", "", "Al Cap WT series SMT 100uF 35V Nichicon Aluminium Electrolytic Capacitor 100uF 35 V 6.3mm Surface Mount 5101-4 series WT lifetime 1000h", "http://www.mouser.com/ds/2/293/e-uwt-880115.pdf", "8 mm"
+END_PART
+
+END.

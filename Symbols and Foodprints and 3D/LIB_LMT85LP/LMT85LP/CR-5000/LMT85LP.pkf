@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LMT85LP"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LMT85LP")
+        (spec "default")
+    )
+)

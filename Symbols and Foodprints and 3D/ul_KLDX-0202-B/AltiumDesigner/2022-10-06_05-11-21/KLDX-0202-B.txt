@@ -1,0 +1,124 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "KLDX-0202-B_KYC")
+Pad (Name "S_1_H1") (Location 523.4882202, 53.5) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_1_H2") (Location 523.4882202, -53.5) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_1") (Location 523.4882202, 0) (HoleSize 1) (Surface False) (Rotation 90) (ExpandMask 0)
+PadShape (Size 170, 63) (Shape Rounded) (Layer Top)
+PadShape (Size 170, 63) (Shape Rounded) (Layer Bottom)
+PadShape (Size 170, 63) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_2_H1") (Location 279.39370918, 43.5) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_2_H2") (Location 279.39370918, -43.5) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_2") (Location 279.39370918, 0) (HoleSize 1) (Surface False) (Rotation 90) (ExpandMask 0)
+PadShape (Size 150, 63) (Shape Rounded) (Layer Top)
+PadShape (Size 150, 63) (Shape Rounded) (Layer Bottom)
+PadShape (Size 150, 63) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_3_H1") (Location 441.00390625, -185.03939819) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_3_H2") (Location 354.00390625, -185.03939819) (HoleSize 43) (Plated 0) (Surface False) (Rotation 0)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Top)
+PadShape (Size 43, 43) (Shape Rounded) (Layer Bottom)
+PadShape (Size 43, 43) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "S_3") (Location 397.50390625, -185.03939819) (HoleSize 1) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 150, 63) (Shape Rounded) (Layer Top)
+PadShape (Size 150, 63) (Shape Rounded) (Layer Bottom)
+PadShape (Size 150, 63) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 43) (Start 523.4882202, -53.5) (End 523.4882202, 53.5) (Layer MultiLayer) 
+Line (Width 43) (Start 279.39370918, -43.5) (End 279.39370918, 43.5) (Layer MultiLayer) 
+Line (Width 43) (Start 354.00390625, -185.03939819) (End 441.00390625, -185.03939819) (Layer MultiLayer) 
+Line (Width 6) (Start -33.75588989, -193) (End -33.75588989, 193) (Layer Mechanical15) 
+Line (Width 6) (Start -33.75588989, 193) (End 557.24411011, 193) (Layer Mechanical15) 
+Line (Width 6) (Start 557.24411011, 193) (End 557.24411011, -193) (Layer Mechanical15) 
+Line (Width 6) (Start 557.24411011, -193) (End -33.75588989, -193) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-33.75588989, -193)
+Point (-33.75588989, 193)
+Point (557.24411011, 193)
+Point (557.24411011, -193)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-158.75588989, -318)
+Point (-158.75588989, 318)
+Point (682.24411011, 318)
+Point (682.24411011, -318)
+EndPolygon
+Line (Width 6) (Start 647.24411011, 0) (End 617.24411011, 0) (Layer TopOverlay) 
+Line (Width 6) (Start 632.24411011, 15) (End 632.24411011, -15) (Layer TopOverlay) 
+Line (Width 6) (Start -28.75588989, -188) (End 309.50227852, -188) (Layer TopOverlay) 
+Line (Width 6) (Start 552.24411011, -188) (End 552.24411011, -87.59191737) (Layer TopOverlay) 
+Line (Width 6) (Start 552.24411011, 188) (End -28.75588989, 188) (Layer TopOverlay) 
+Line (Width 6) (Start -28.75588989, 188) (End -28.75588989, -188) (Layer TopOverlay) 
+Line (Width 6) (Start 552.24411011, 87.59191737) (End 552.24411011, 188) (Layer TopOverlay) 
+Line (Width 6) (Start 485.50553398, -188) (End 552.24411011, -188) (Layer TopOverlay) 
+Line (Width 1) (Start 647.24411011, 0) (End 617.24411011, 0) (Layer Mechanical13) 
+Line (Width 1) (Start 632.24411011, 15) (End 632.24411011, -15) (Layer Mechanical13) 
+Line (Width 1) (Start -23.75588989, -183) (End 547.24411011, -183) (Layer Mechanical13) 
+Line (Width 1) (Start 547.24411011, -183) (End 547.24411011, 183) (Layer Mechanical13) 
+Line (Width 1) (Start 547.24411011, 183) (End -23.75588989, 183) (Layer Mechanical13) 
+Line (Width 1) (Start -23.75588989, 183) (End -23.75588989, -183) (Layer Mechanical13) 
+Step (Name KLDX-0202-B_KYC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "KLDX-0202-B") (PartCount 1) (DesPrefix "U?")
+Pin (Location -300, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "S_1") (Name Visible "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location -300, -300) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "S_2") (Name Visible "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location -300, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "S_3") (Name Visible "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location -300, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Part 1)
+Line (Width 5) (Start 0, 0) (End 225, 0) (Part 1)
+Line (Width 5) (Start 0, -300) (End 300, -300) (Part 1)
+Line (Width 5) (Start 250, -37.5) (End 425, -37.5) (Part 1)
+Line (Width 5) (Start 250, 37.5) (End 425, 37.5) (Part 1)
+Line (Width 5) (Start 0, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 200, -100) (End 200, -300) (Part 1)
+Line (Width 5) (Start 300, -300) (End 350, -250) (Part 1)
+Line (Width 5) (Start 350, -250) (End 400, -300) (Part 1)
+Line (Width 5) (Start 0, -200) (End 50, -200) (Part 1)
+Line (Width 5) (Start 50, -200) (End 50, -100) (Part 1)
+Rectangle (Width 5) (Start 225, -62.5) (End 250, 62.5) (Part 1)
+Arc (Width 10) (Radius 5) (Location 50, -100) (StartAngle 270) (EndAngle 270) (Part 1)
+Arc (Width 5) (Radius 38) (Location 425, 0) (StartAngle 270) (EndAngle 450) (Part 1)
+Polygon (PointCount 3) (Part 1)
+Point (187.5, -262.5)
+Point (200, -300)
+Point (212.5, -262.5)
+EndPolygon
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "KYCON, INC.") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "KLDX-0202-B") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "2092-KLDX-0202-B-ND") (Part 1)
+Parameter (Name "RefDes") (Location 0, 362.5) (Height 137) (Rotation 0) (Justification CenterLeft) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 975, -1400) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "KLDX-0202-B") (Part 1)
+Footprint (Name "KLDX-0202-B_KYC")
+EndComponent
+EndComponents

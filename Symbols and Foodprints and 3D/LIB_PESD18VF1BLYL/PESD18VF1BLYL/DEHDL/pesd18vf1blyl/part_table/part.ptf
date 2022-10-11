@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD18VF1BLYL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PESD18VF1BLYL" (!) = "", "PESD5V0S1BL315", "Other", "771-PESD18VF1BLYL", "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD18VF1BLYL?qs=gNSudQoqUYD5PVaOytQ6tQ%3D%3D", "", "", "", "", "PESD18VF1BL - Ultra low capacitance bidirectional ESD protection diode", "https://assets.nexperia.com/documents/data-sheet/PESD18VF1BL.pdf", "0 mm"
+END_PART
+
+END.

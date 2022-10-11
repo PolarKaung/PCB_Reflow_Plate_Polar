@@ -1,0 +1,20 @@
+.GRM21AR72E102KW01D :1 ;Murata 0805 (2012M) 1nF MLCC 250V dc +/-10% SMD GRM21AR72E102KW01D
+CAPC2012X100N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM21AR72E102KW01D
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM21AR72E102KW01D)
+~!Mouser Part Number (81-GRM21AR72E102KW01)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM21AR72E102KW01)
+~!Arrow Part Number (GRM21AR72E102KW01D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/grm21ar72e102kw01d/murata-manufacturing)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.murata.com/en-us/products/productdetail?partno=GRM21AR72E102KW01%23?hkey=EF798316E3902B6ED9A73243A3159BB0)
+~!Height (1mm)
+~!3D_Model (GRM21AR72E102KW01D)
+GRM21AR72E102KW01D
+1.1!U 2.1!U 

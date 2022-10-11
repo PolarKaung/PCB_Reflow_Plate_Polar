@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N4448X_TP'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micro Commercial Components (MCC)", "1N4448X-TP" (!) = "", "1N4448XTP", "Other", "833-1N4448X-TP", "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/1N4448X-TP?qs=0RDYWt4CO4fFI8HfN%2F4aEA%3D%3D", "1N4448X-TP", "https://www.arrow.com/en/products/1n4448x-tp/micro-commercial-components?region=europe", "", "", "Diodes - General Purpose, Power, Switching 250mA 75V 500mA 250mA 150mW 75Vbr", "https://www.mccsemi.com/pdf/Products/1N4448X(SOD-523).PDF", "0.65 mm"
+END_PART
+
+END.

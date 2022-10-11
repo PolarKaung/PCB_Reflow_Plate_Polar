@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM21AR72E102KW01D
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2022-08-24 06:30:12
+Downloaded=2022-09-01 12:48:52
+3D=Y

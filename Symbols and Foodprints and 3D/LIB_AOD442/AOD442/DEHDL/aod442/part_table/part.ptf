@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AOD442'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Alpha & Omega Semiconductors", "AOD442" (!) = "", "AOD442", "Other", "", "", "AOD442", "https://www.arrow.com/en/products/aod442/alpha-and-omega-semiconductor?region=nac", "", "", "MOSFET N Trench 60V 7A 2.7V @ 250uA 20 m @ 20A,10V TO-252-2(DPAK) RoHS", "http://www.aosmd.com/res/packaging_information/TO252.pdf", "2.4 mm"
+END_PART
+
+END.

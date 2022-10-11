@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR0805-FX-1001ELF
+D SMD 0805 thick film resistor 1K 1% Bourns CR0805-FX Series Thick Film Surface Mount Fixed Resistor 0805 Case 1k +/-1% 0.125W +/-100ppm/C
+K
+F https://www.bourns.com/pdfs/chpreztr.pdf
+$ENDCMP
+#
+#End Doc Library

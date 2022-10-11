@@ -1,0 +1,20 @@
+.PESD18VF1BLYL :1 ;PESD18VF1BL - Ultra low capacitance bidirectional ESD protection diode
+PESD5V0S1BL315
+*STM D
+*NGS
+*PLB 1="K1" 2="K2"
+*MXP 2
+*DFN PESD18VF1BLYL
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PESD18VF1BLYL)
+~!Mouser Part Number (771-PESD18VF1BLYL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PESD18VF1BLYL?qs=gNSudQoqUYD5PVaOytQ6tQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PESD18VF1BL.pdf)
+~!Height (0mm)
+~!3D_Model (PESD18VF1BLYL)
+PESD18VF1BLYL
+1.1!U 2.1!U 

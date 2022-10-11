@@ -1,0 +1,20 @@
+.C1005X7S2A103M050BB :1 ;MULTILAYER CERAMIC CHIP CAPACITORS, 1005, Commercial grade, general (Up to 75V)
+C1005_Commercial
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C1005X7S2A103M050BB
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (C1005X7S2A103M050BB)
+~!Mouser Part Number (810-C1005X7S2A103M)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=810-C1005X7S2A103M)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_midvoltage_en.pdf)
+~!Height (0.55mm)
+~!3D_Model (C1005X7S2A103M050BB)
+C1005X7S2A103M050BB
+1.1!U 2.1!U 

@@ -1,0 +1,20 @@
+.LMT85LP :1 ;Board Mount Temperature Sensors Analog Temp Sensor
+LMT85LP
+*STM IC
+*NGS
+*PLB 1="VDD" 2="OUT" 3="GND"
+*MXP 3
+*DFN LMT85LP
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMT85LP)
+~!Mouser Part Number (595-LMT85LP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMT85LP?qs=U0ECReq1GB%2FnA9zQwQMysg%3D%3D)
+~!Arrow Part Number (LMT85LP)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lmt85lp/texas-instruments?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lmt85.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1635242341074&ref_url=https%253A%252F%252Fwww.mouser.de%252F)
+~!Height (5.34mm)
+~!3D_Model (LMT85LP)
+LMT85LP
+1.1!U 2.1!U 3.1!U 

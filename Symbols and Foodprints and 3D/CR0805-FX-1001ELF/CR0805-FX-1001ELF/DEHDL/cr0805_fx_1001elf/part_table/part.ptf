@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CR0805_FX_1001ELF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CR0805-FX-1001ELF" (!) = "", "RESC2012X60N", "Resistor Chip", "652-CR0805FX-1001ELF", "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-FX-1001ELF?qs=tknLyCMIRbOJasvgRv5Bdg%3D%3D", "CR0805-FX-1001ELF", "https://www.arrow.com/en/products/cr0805-fx-1001elf/bourns?region=nac", "", "", "SMD 0805 thick film resistor 1K 1% Bourns CR0805-FX Series Thick Film Surface Mount Fixed Resistor 0805 Case 1k +/-1% 0.125W +/-100ppm/C", "https://www.bourns.com/pdfs/chpreztr.pdf", "0.6 mm"
+END_PART
+
+END.

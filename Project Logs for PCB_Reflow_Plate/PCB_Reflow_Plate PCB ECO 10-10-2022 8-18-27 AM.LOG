@@ -1,0 +1,6 @@
+Added Component: Designator=MTH1(MTH_6mmOD_3mmID)
+Added Component: Designator=MTH2(MTH_6mmOD_3mmID)
+Added Component: Designator=MTH3(MTH_6mmOD_3mmID)
+Added Component: Designator=MTH4(MTH_6mmOD_3mmID)
+Added Pin To Net: NetName=GND Pin=MTH3-1
+Added Pin To Net: NetName=GND Pin=MTH4-1

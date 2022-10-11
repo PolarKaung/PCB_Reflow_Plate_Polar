@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PTS636_SP50_LFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-22-11:31:06)
+    (mountForm default
+        (footprintRef "PTS636SP43LFS")
+        (spec "System")
+    )
+)

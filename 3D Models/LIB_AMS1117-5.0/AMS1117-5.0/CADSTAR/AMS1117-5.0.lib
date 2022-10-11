@@ -1,0 +1,20 @@
+.AMS1117-5.0 :1 ;1A LOW DROPOUT VOLTAGE REGULATOR
+SOT229P700X180-4N
+*STM IC
+*NGS
+*PLB 1="GROUND/ADJUST" 2="VOUT" 3="VIN" 4="TAB"
+*MXP 4
+*DFN AMS1117-5.0
+~!Manufacturer_Name (Advanced Monolithic Systems)
+~!Manufacturer_Part_Number (AMS1117-5.0)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.advanced-monolithic.com/pdf/ds1117.pdf)
+~!Height (1.8mm)
+~!3D_Model (AMS1117-5.0)
+AMS1117-5.0
+1.1!U 2.1!U 3.1!U 4.1!U 

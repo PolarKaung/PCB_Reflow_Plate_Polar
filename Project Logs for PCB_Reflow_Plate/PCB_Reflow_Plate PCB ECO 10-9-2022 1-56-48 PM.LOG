@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=D1-A
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Change Net Name : Old Net Name=VCC New Net Name=Mos_Drain
